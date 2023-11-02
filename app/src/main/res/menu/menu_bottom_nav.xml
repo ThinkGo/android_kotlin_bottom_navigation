@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/albumsFragment"
+        android:title="Albums"
+        android:icon="@drawable/ic_album"/>
+    <item android:id="@+id/favouritesFragment"
+        android:title="Favourites"
+        android:icon="@drawable/ic_favorite" />
+    <item android:id="@+id/accountFragment"
+        android:title="Accounts"
+        android:icon="@drawable/ic_account" />
+</menu>
